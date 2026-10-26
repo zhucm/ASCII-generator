@@ -24,6 +24,7 @@ def get_args():
 
 
 def main(opt):
+        
     if opt.background == "white":
         bg_code = (255, 255, 255)
     else:
